@@ -1,5 +1,7 @@
 // User – abstrakcyjna klasa bazowa dla Player i Bot, trzyma nazwę i kolor (jako String).
 package ludoclub.model;
+import javafx.scene.paint.Color;
+
 
 import javafx.scene.paint.Color;
 import java.io.Serializable;
